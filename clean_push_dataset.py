@@ -1,6 +1,5 @@
 import re
 import logging
-import argparse
 from istatapi import discovery, retrieval
 import pandas as pd
 import sqlitecloud
